@@ -10,10 +10,9 @@ struct list{
 list lista[3] {"letuce","carrot", "onion" };
 
 //Dados alface
-lista.hum_a[1] = 0.7; // 70%
 lista.temp[1] = 25; // 25ºc
-lista.hum_a[1] = 
-
+lista.hum_s[1] = 123 // place holder
+lista.hum_a[1] = 0.7; // 70%
   
 //Dados Cenoura
   lista.temp[2] = 
