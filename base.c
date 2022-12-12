@@ -21,7 +21,7 @@ lista.hum_a[1] = 0.7; // 70%
   lista.light[2] = 
   
   //Dados Cebola
-  lista.temp[3]
-  lista.hum_s[3]
-  lista.hum_a[3]
-  lista.light[3]
+  lista.temp[3] = 
+  lista.hum_s[3] = 
+  lista.hum_a[3] = 
+  lista.light[3] = 
